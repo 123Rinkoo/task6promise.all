@@ -57,7 +57,3 @@ Promise.all([createposts({usern: 'Hina', lastactivitytime: 'Date Mon April 15 20
 
 })
 
-// setTimeout(() => {
-//     user.pop();
-//     console.log(user)
-// }, 3000);
